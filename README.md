@@ -15,3 +15,6 @@ In this project, we use AWS Sagemaker to build an image classification model tha
 
 ## State Machine
 ![state_machine](./images/state_machine.png)
+
+## Inferences Sample
+![inferences](./images/inferences.png)
